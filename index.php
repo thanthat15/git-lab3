@@ -1,5 +1,5 @@
 <?php
     echo "this subject is Git tutorial";
-    echo "jndsfjdsbfjfsgoisgsljgb;
+    echo "jndsfjdsbfjfsgoisgsljgb";
     echo "kkkkkkokookokok";
 ?> 
